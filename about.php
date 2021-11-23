@@ -5,7 +5,6 @@
 <title>Cloud Compiler</title>
 
 <!-- Stylesheet files-->
-<!-- Added by kuldeep jhinjer -->
 
 <link href="css/style.css?version=1" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
